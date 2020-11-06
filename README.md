@@ -1,2 +1,2 @@
-# terraform-coding
-Demo for provisioning in AWS with Terraform 
+# Terraform - AWS
+Demo for provisioning a auto-scaling Nginx serverin on AWS with Terraform
